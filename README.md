@@ -23,8 +23,8 @@
 3. осадки
 4. прогноз погогоды на неделю/10 дней/на месяц
 
-[Git-репозиторий проекта]([https://github.com/lulu2kan/Megalul](https://github.com/Qoer/wheser/wiki/Weather-team))
-
+[Git-репозиторий проекта](https://github.com/Qoer/wheser/wiki/Weather-team)
+Git-репозиторий проекта 
 
 ## Лабораторная 3
 
@@ -33,3 +33,4 @@
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
 [Отчет]()
+
