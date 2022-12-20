@@ -32,5 +32,12 @@ Git-репозиторий проекта
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
-[Отчет]()
+![image](https://user-images.githubusercontent.com/13289228/208698451-516abbaa-5c75-4890-980b-de747e6df980.png)
+![image](https://user-images.githubusercontent.com/13289228/208699013-be42c98b-a31e-485c-9b67-2453a4815430.png)
+
+1.	Вбил базу vlan-ов во все коммутаторы
+2.	Настроил суб-интерфейсы на роутере
+3.	Настроил интерфейсы на mode access в случае если они подключены к PC, в остальных случаях mode trunk
+4.	Настроил DHCP pool на роутере0, и поставил галочку на PC, для принятия DHCP request
+
 
